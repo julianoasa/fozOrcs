@@ -1,0 +1,17 @@
+{
+"companyName": "JJ Jogos",
+"productName": "Foz dos ORCS",
+"productVersion": "0.1",
+"dataUrl": "fozOrcs.data.unityweb",
+"wasmCodeUrl": "fozOrcs.wasm.code.unityweb",
+"wasmFrameworkUrl": "fozOrcs.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "fozOrcs.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
